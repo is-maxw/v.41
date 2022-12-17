@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1cYoSNle+f489H/qnFz3LJQN5JIq5p7nYDdtkilVuVhgQMZsdtKQkgAT78SrYTIqUafgwlpA0oCaE8SvQgm0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\max.winther\\Programering\\TopDown!\\v.41\\v.41\\v.41.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max.winther\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\max.winther\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

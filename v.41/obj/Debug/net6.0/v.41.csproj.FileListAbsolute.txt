@@ -1,0 +1,42 @@
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\v.41.exe
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\v.41.deps.json
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\v.41.runtimeconfig.json
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\v.41.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\v.41.pdb
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.csproj.AssemblyReference.cache
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.AssemblyInfoInputs.cache
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.AssemblyInfo.cs
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.csproj.CoreCompileInputs.cache
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.csproj.CopyComplete
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\refint\v.41.dll
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.pdb
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\v.41.genruntimeconfig.cache
+C:\Users\max.winther\Programering\Lektion v41\v.41\v.41\obj\Debug\net6.0\ref\v.41.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\v.41.exe
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\v.41.deps.json
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\v.41.runtimeconfig.json
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\v.41.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\v.41.pdb
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.csproj.AssemblyReference.cache
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.AssemblyInfoInputs.cache
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.AssemblyInfo.cs
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.csproj.CoreCompileInputs.cache
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.csproj.CopyComplete
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\refint\v.41.dll
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.pdb
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\v.41.genruntimeconfig.cache
+C:\Users\max.winther\Programering\TopDown!\v.41\v.41\obj\Debug\net6.0\ref\v.41.dll
